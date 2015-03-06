@@ -1,0 +1,460 @@
+2015-03-04 13:13:06.058 myApp[39242:25342387] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/77094DA6-4E68-449D-9BE0-1379AC53F1FB/Library/Cookies/Cookies.binarycookies
+2015-03-04 13:13:06.275 myApp[39242:25342387] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-04 13:13:06.275 myApp[39242:25342387] Multi-tasking -> Device: YES, App: YES
+2015-03-04 13:13:06.278 myApp[39242:25342387] Unlimited access to network resources
+2015-03-04 13:13:06.473 myApp[39242:25342387] [CDVTimer][keyboard] 0.062048ms
+2015-03-04 13:13:06.473 myApp[39242:25342387] [CDVTimer][TotalPluginStartup] 0.212014ms
+2015-03-04 13:13:07.133 myApp[39242:25342387] Resetting plugins due to page load.
+2015-03-04 13:13:07.455 myApp[39242:25342387] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/5D2277A9-A67D-494D-BE7C-90C58CF3BEAD/myApp.app/www/index.html#/tab/dash
+2015-03-04 14:55:27.345 myApp[40339:25403528] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/6A40A3E0-67F5-481A-91D7-C8B49B408727/Library/Cookies/Cookies.binarycookies
+2015-03-04 14:55:27.836 myApp[40339:25403528] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-04 14:55:27.837 myApp[40339:25403528] Multi-tasking -> Device: YES, App: YES
+2015-03-04 14:55:27.859 myApp[40339:25403528] Unlimited access to network resources
+2015-03-04 14:55:28.237 myApp[40339:25403528] [CDVTimer][keyboard] 0.072002ms
+2015-03-04 14:55:28.237 myApp[40339:25403528] [CDVTimer][TotalPluginStartup] 1.384974ms
+2015-03-04 14:55:28.520 myApp[40339:25403528] Resetting plugins due to page load.
+2015-03-04 14:55:28.815 myApp[40339:25403528] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/B5C30ED9-07DB-4788-8934-73061235A91E/myApp.app/www/index.html#/tab/dash
+2015-03-04 16:06:49.327 myApp[40339:25424523] Terminating since there is no system app.
+2015-03-05 14:27:41.116 myApp[2385:794475] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/6C5A91BF-3F0E-48A0-9C9A-60C4D489E055/Library/Cookies/Cookies.binarycookies
+2015-03-05 14:27:41.439 myApp[2385:794475] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 14:27:41.440 myApp[2385:794475] Multi-tasking -> Device: YES, App: YES
+2015-03-05 14:27:41.441 myApp[2385:794475] Unlimited access to network resources
+2015-03-05 14:27:41.662 myApp[2385:794475] [CDVTimer][keyboard] 0.065029ms
+2015-03-05 14:27:41.662 myApp[2385:794475] [CDVTimer][TotalPluginStartup] 1.118004ms
+2015-03-05 14:27:41.827 myApp[2385:794475] Resetting plugins due to page load.
+2015-03-05 14:27:42.006 myApp[2385:794475] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/C1330121-0592-41B3-93D3-881802DC83F0/myApp.app/www/index.html#/tab/home
+2015-03-05 14:40:20.470 myApp[2385:794475] CDVWebViewDelegate: Navigation started when state=1
+2015-03-05 14:40:20.470 myApp[2385:794475] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-05 14:40:20.669 myApp[2385:794475] CDVWebViewDelegate: Navigation started when state=1
+2015-03-05 14:40:20.670 myApp[2385:794475] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-05 14:40:20.878 myApp[2385:794475] CDVWebViewDelegate: Navigation started when state=1
+2015-03-05 14:40:20.878 myApp[2385:794475] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-05 16:15:00.126 myApp[4672:865103] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/12E38D00-2884-4528-9D29-0CDB71C4C1B0/Library/Cookies/Cookies.binarycookies
+2015-03-05 16:15:00.372 myApp[4672:865103] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 16:15:00.373 myApp[4672:865103] Multi-tasking -> Device: YES, App: YES
+2015-03-05 16:15:00.376 myApp[4672:865103] Unlimited access to network resources
+2015-03-05 16:15:00.640 myApp[4672:865103] [CDVTimer][keyboard] 0.063002ms
+2015-03-05 16:15:00.640 myApp[4672:865103] [CDVTimer][TotalPluginStartup] 0.233054ms
+2015-03-05 16:15:00.711 myApp[4672:865103] Resetting plugins due to page load.
+2015-03-05 16:15:00.869 myApp[4672:865103] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/C1FCA349-FF83-4792-9ECA-A2BD0F2078CE/myApp.app/www/index.html#/tab/home
+2015-03-05 20:23:06.650 myApp[1259:49351] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/DB8719EE-FB4B-4119-85CC-E309705F623D/Library/Cookies/Cookies.binarycookies
+2015-03-05 20:23:07.122 myApp[1259:49351] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 20:23:07.122 myApp[1259:49351] Multi-tasking -> Device: YES, App: YES
+2015-03-05 20:23:07.140 myApp[1259:49351] Unlimited access to network resources
+2015-03-05 20:23:07.604 myApp[1259:49351] [CDVTimer][keyboard] 0.061989ms
+2015-03-05 20:23:07.604 myApp[1259:49351] [CDVTimer][TotalPluginStartup] 0.235975ms
+2015-03-05 20:23:07.982 myApp[1259:49351] Resetting plugins due to page load.
+2015-03-05 20:23:08.287 myApp[1259:49351] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/CC5396D4-7ACB-495C-B44E-4D8AFBED6E04/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:20:41.364 myApp[1643:622469] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/8450794D-B46A-43B6-BF20-A981D4754FB0/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:20:41.759 myApp[1643:622469] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:20:41.761 myApp[1643:622469] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:20:41.779 myApp[1643:622469] Unlimited access to network resources
+2015-03-05 22:20:42.230 myApp[1643:622469] [CDVTimer][keyboard] 0.060022ms
+2015-03-05 22:20:42.231 myApp[1643:622469] [CDVTimer][TotalPluginStartup] 0.243962ms
+2015-03-05 22:20:42.554 myApp[1643:622469] Resetting plugins due to page load.
+2015-03-05 22:20:42.835 myApp[1643:622469] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/1C617090-A6DD-471C-BFF6-0E1D938F8CBA/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:21:07.447 myApp[1643:622469] THREAD WARNING: ['Keyboard'] took '68.466797' ms. Plugin should use a background thread.
+2015-03-05 22:33:03.934 myApp[1865:683870] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/16ECF6F5-BD92-4B33-B438-46F8F6546558/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:33:04.126 myApp[1865:683870] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:33:04.126 myApp[1865:683870] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:33:04.128 myApp[1865:683870] Unlimited access to network resources
+2015-03-05 22:33:04.309 myApp[1865:683870] [CDVTimer][keyboard] 0.069022ms
+2015-03-05 22:33:04.310 myApp[1865:683870] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-03-05 22:33:04.404 myApp[1865:683870] Resetting plugins due to page load.
+2015-03-05 22:33:04.559 myApp[1865:683870] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/9925B6DA-95A8-4794-A38C-14CFAC86C1B6/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:39:46.121 myApp[2035:699115] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/51A303B0-D04D-4D96-858E-1064E16EDDCE/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:39:46.337 myApp[2035:699115] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:39:46.338 myApp[2035:699115] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:39:46.341 myApp[2035:699115] Unlimited access to network resources
+2015-03-05 22:39:46.586 myApp[2035:699115] [CDVTimer][keyboard] 0.073969ms
+2015-03-05 22:39:46.586 myApp[2035:699115] [CDVTimer][TotalPluginStartup] 0.259995ms
+2015-03-05 22:39:46.689 myApp[2035:699115] Resetting plugins due to page load.
+2015-03-05 22:39:46.885 myApp[2035:699115] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/114B10BE-84C0-4AB8-B359-7A871DF462B7/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:43:35.122 myApp[2198:710778] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/858018A7-4A7F-44D9-B65D-46766F712C96/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:43:35.390 myApp[2198:710778] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:43:35.390 myApp[2198:710778] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:43:35.392 myApp[2198:710778] Unlimited access to network resources
+2015-03-05 22:43:35.616 myApp[2198:710778] [CDVTimer][keyboard] 0.056028ms
+2015-03-05 22:43:35.616 myApp[2198:710778] [CDVTimer][TotalPluginStartup] 0.208974ms
+2015-03-05 22:43:35.708 myApp[2198:710778] Resetting plugins due to page load.
+2015-03-05 22:43:35.864 myApp[2198:710778] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/1E625955-39C5-42BF-B9B7-7C3E243FF3B2/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:45:23.263 myApp[2363:716974] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/84331DD2-04B8-4997-9366-E7E99F598DAB/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:45:23.465 myApp[2363:716974] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:45:23.466 myApp[2363:716974] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:45:23.469 myApp[2363:716974] Unlimited access to network resources
+2015-03-05 22:45:23.704 myApp[2363:716974] [CDVTimer][keyboard] 0.060976ms
+2015-03-05 22:45:23.704 myApp[2363:716974] [CDVTimer][TotalPluginStartup] 0.207007ms
+2015-03-05 22:45:23.786 myApp[2363:716974] Resetting plugins due to page load.
+2015-03-05 22:45:24.000 myApp[2363:716974] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/718395DC-0DAC-468D-9723-683D16600023/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:49:46.740 myApp[2529:733069] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/D5E917C2-4218-4269-BAE1-17E1CBE1E742/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:49:46.967 myApp[2529:733069] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:49:46.968 myApp[2529:733069] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:49:46.970 myApp[2529:733069] Unlimited access to network resources
+2015-03-05 22:49:47.207 myApp[2529:733069] [CDVTimer][keyboard] 0.174046ms
+2015-03-05 22:49:47.207 myApp[2529:733069] [CDVTimer][TotalPluginStartup] 0.618994ms
+2015-03-05 22:49:47.304 myApp[2529:733069] Resetting plugins due to page load.
+2015-03-05 22:49:47.533 myApp[2529:733069] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/7F5509FA-64B1-478F-A40B-C2B5CD645C99/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:50:32.743 myApp[2695:735838] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/A5637903-11F9-4426-9EE1-E7CF78DD9E4C/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:50:33.015 myApp[2695:735838] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:50:33.015 myApp[2695:735838] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:50:33.016 myApp[2695:735838] Unlimited access to network resources
+2015-03-05 22:50:33.238 myApp[2695:735838] [CDVTimer][keyboard] 0.070035ms
+2015-03-05 22:50:33.238 myApp[2695:735838] [CDVTimer][TotalPluginStartup] 0.319004ms
+2015-03-05 22:50:33.318 myApp[2695:735838] Resetting plugins due to page load.
+2015-03-05 22:50:33.514 myApp[2695:735838] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/3C138447-35B5-4404-AFB0-6CBB27B48279/myApp.app/www/index.html#/tab/categories
+2015-03-05 22:55:22.568 myApp[2874:744340] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/A6F8FC6D-6BF9-41CE-A227-1036677FA489/Library/Cookies/Cookies.binarycookies
+2015-03-05 22:55:22.808 myApp[2874:744340] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 22:55:22.808 myApp[2874:744340] Multi-tasking -> Device: YES, App: YES
+2015-03-05 22:55:22.810 myApp[2874:744340] Unlimited access to network resources
+2015-03-05 22:55:23.035 myApp[2874:744340] [CDVTimer][keyboard] 0.061989ms
+2015-03-05 22:55:23.035 myApp[2874:744340] [CDVTimer][TotalPluginStartup] 0.239968ms
+2015-03-05 22:55:23.116 myApp[2874:744340] Resetting plugins due to page load.
+2015-03-05 22:55:23.320 myApp[2874:744340] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/1A5EAB11-CE11-4CC9-8533-3C3FDFA583A1/myApp.app/www/index.html#/tab/categories
+2015-03-05 23:15:57.834 myApp[3083:788883] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/27C0E6E1-402C-480E-92F4-DE466F63BABC/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:15:58.065 myApp[3083:788883] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:15:58.066 myApp[3083:788883] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:15:58.067 myApp[3083:788883] Unlimited access to network resources
+2015-03-05 23:15:58.288 myApp[3083:788883] [CDVTimer][keyboard] 0.059009ms
+2015-03-05 23:15:58.288 myApp[3083:788883] [CDVTimer][TotalPluginStartup] 0.212967ms
+2015-03-05 23:15:58.407 myApp[3083:788883] Resetting plugins due to page load.
+2015-03-05 23:15:58.703 myApp[3083:788883] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/D716BDC7-87CF-4AED-B46F-DBD27C35E5AE/myApp.app/www/index.html
+2015-03-05 23:16:26.051 myApp[3243:791309] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/20CC10C6-209B-46FF-8133-4809A11E8918/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:16:26.270 myApp[3243:791309] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:16:26.271 myApp[3243:791309] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:16:26.273 myApp[3243:791309] Unlimited access to network resources
+2015-03-05 23:16:26.524 myApp[3243:791309] [CDVTimer][keyboard] 0.068009ms
+2015-03-05 23:16:26.524 myApp[3243:791309] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-03-05 23:16:26.627 myApp[3243:791309] Resetting plugins due to page load.
+2015-03-05 23:16:26.846 myApp[3243:791309] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/BE910630-EF84-44D3-9E8A-BA937F2D8BF2/myApp.app/www/index.html
+2015-03-05 23:17:47.320 myApp[3445:794331] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/835530DE-CE9C-4672-AAEE-5656676D4E0B/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:17:47.445 myApp[3445:794331] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:17:47.445 myApp[3445:794331] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:17:47.447 myApp[3445:794331] Unlimited access to network resources
+2015-03-05 23:17:47.666 myApp[3445:794331] [CDVTimer][keyboard] 0.101984ms
+2015-03-05 23:17:47.666 myApp[3445:794331] [CDVTimer][TotalPluginStartup] 0.401974ms
+2015-03-05 23:17:47.739 myApp[3445:794331] Resetting plugins due to page load.
+2015-03-05 23:17:48.007 myApp[3445:794331] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/0CE39D60-5E57-4E86-B264-6060BFB14C01/myApp.app/www/index.html
+2015-03-05 23:24:13.266 myApp[4391:810746] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/5D6FB72F-976B-4E0F-B573-686981443F1E/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:24:13.474 myApp[4391:810746] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:24:13.475 myApp[4391:810746] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:24:13.477 myApp[4391:810746] Unlimited access to network resources
+2015-03-05 23:24:13.735 myApp[4391:810746] [CDVTimer][keyboard] 0.052989ms
+2015-03-05 23:24:13.735 myApp[4391:810746] [CDVTimer][TotalPluginStartup] 0.211000ms
+2015-03-05 23:24:13.794 myApp[4391:810746] Resetting plugins due to page load.
+2015-03-05 23:24:13.941 myApp[4391:810746] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/B021032C-6AE8-4F36-8CC5-7CF3F0F9CC56/myApp.app/www/index.html#/tab/categories
+2015-03-05 23:26:56.767 myApp[4667:821583] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/C8B4E7F7-4702-4315-9164-433FECF517C8/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:26:56.901 myApp[4667:821583] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:26:56.901 myApp[4667:821583] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:26:56.903 myApp[4667:821583] Unlimited access to network resources
+2015-03-05 23:26:57.153 myApp[4667:821583] [CDVTimer][keyboard] 0.059962ms
+2015-03-05 23:26:57.153 myApp[4667:821583] [CDVTimer][TotalPluginStartup] 0.230014ms
+2015-03-05 23:26:57.231 myApp[4667:821583] Resetting plugins due to page load.
+2015-03-05 23:26:57.416 myApp[4667:821583] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/7869CA53-28E5-4372-BE6C-A0E49264D5FD/myApp.app/www/index.html#/tab/categories
+2015-03-05 23:33:00.933 myApp[4857:845324] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/17C84AD5-FEC2-4816-ABC3-4176E805712D/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:33:01.046 myApp[4857:845324] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:33:01.046 myApp[4857:845324] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:33:01.048 myApp[4857:845324] Unlimited access to network resources
+2015-03-05 23:33:01.277 myApp[4857:845324] [CDVTimer][keyboard] 0.063002ms
+2015-03-05 23:33:01.278 myApp[4857:845324] [CDVTimer][TotalPluginStartup] 0.248969ms
+2015-03-05 23:33:01.352 myApp[4857:845324] Resetting plugins due to page load.
+2015-03-05 23:33:01.533 myApp[4857:845324] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/221BEB3A-C944-4638-AC42-9CAFFF357B11/myApp.app/www/index.html
+2015-03-05 23:33:11.168 myApp[4857:845655] Terminating since there is no system app.
+2015-03-05 23:35:49.963 myApp[680:8264] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/E26112A0-34A5-459B-AD51-BC40C7ADF043/Library/Cookies/Cookies.binarycookies
+2015-03-05 23:35:50.398 myApp[680:8264] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-05 23:35:50.399 myApp[680:8264] Multi-tasking -> Device: YES, App: YES
+2015-03-05 23:35:50.417 myApp[680:8264] Unlimited access to network resources
+2015-03-05 23:35:50.820 myApp[680:8264] [CDVTimer][keyboard] 0.070989ms
+2015-03-05 23:35:50.820 myApp[680:8264] [CDVTimer][TotalPluginStartup] 0.247955ms
+2015-03-05 23:35:51.006 myApp[680:8264] Resetting plugins due to page load.
+2015-03-05 23:35:51.327 myApp[680:8264] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/3E342EC8-C540-445A-B584-F9EA597F1607/myApp.app/www/index.html
+2015-03-06 00:42:06.037 myApp[6232:252748] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/5B511A6B-BCB4-4B56-BCB7-8FF447FC4B14/Library/Cookies/Cookies.binarycookies
+2015-03-06 00:42:06.191 myApp[6232:252748] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 00:42:06.192 myApp[6232:252748] Multi-tasking -> Device: YES, App: YES
+2015-03-06 00:42:06.194 myApp[6232:252748] Unlimited access to network resources
+2015-03-06 00:42:06.379 myApp[6232:252748] [CDVTimer][keyboard] 0.057995ms
+2015-03-06 00:42:06.379 myApp[6232:252748] [CDVTimer][TotalPluginStartup] 0.218987ms
+2015-03-06 00:42:06.484 myApp[6232:252748] Resetting plugins due to page load.
+2015-03-06 00:42:06.644 myApp[6232:252748] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/C223F8D4-8E8D-4BF9-92D2-E3508C55A4D0/myApp.app/www/index.html
+2015-03-06 00:51:29.698 myApp[6358:281866] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/BDFBBFC7-45B8-42B9-BF40-E7371937FDAC/Library/Cookies/Cookies.binarycookies
+2015-03-06 00:51:29.788 myApp[6358:281866] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 00:51:29.788 myApp[6358:281866] Multi-tasking -> Device: YES, App: YES
+2015-03-06 00:51:29.790 myApp[6358:281866] Unlimited access to network resources
+2015-03-06 00:51:29.988 myApp[6358:281866] [CDVTimer][keyboard] 0.057995ms
+2015-03-06 00:51:29.988 myApp[6358:281866] [CDVTimer][TotalPluginStartup] 0.218034ms
+2015-03-06 00:51:30.131 myApp[6358:281866] Resetting plugins due to page load.
+2015-03-06 00:51:30.301 myApp[6358:281866] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/41B12D5F-7505-4DAC-B238-6CADC245198A/myApp.app/www/index.html#/tab/home
+2015-03-06 00:53:38.730 myApp[6358:281866] CDVWebViewDelegate: Navigation started when state=1
+2015-03-06 00:53:38.731 myApp[6358:281866] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2015-03-06 01:00:05.283 myApp[6625:317209] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/8FDF779E-FBF5-4F96-B5D1-5D75D7791850/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:00:05.459 myApp[6625:317209] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:00:05.459 myApp[6625:317209] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:00:05.461 myApp[6625:317209] Unlimited access to network resources
+2015-03-06 01:00:05.703 myApp[6625:317209] [CDVTimer][keyboard] 0.056028ms
+2015-03-06 01:00:05.703 myApp[6625:317209] [CDVTimer][TotalPluginStartup] 0.209987ms
+2015-03-06 01:00:05.773 myApp[6625:317209] Resetting plugins due to page load.
+2015-03-06 01:00:05.903 myApp[6625:317209] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/A5372720-7683-4CB6-BE61-28F1B22796A4/myApp.app/www/index.html#/tab/home
+2015-03-06 01:00:54.868 myApp[6724:319763] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/54E5FF60-B993-40B4-A3E6-D615F046ACF1/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:00:54.982 myApp[6724:319763] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:00:54.983 myApp[6724:319763] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:00:54.984 myApp[6724:319763] Unlimited access to network resources
+2015-03-06 01:00:55.196 myApp[6724:319763] [CDVTimer][keyboard] 0.054002ms
+2015-03-06 01:00:55.196 myApp[6724:319763] [CDVTimer][TotalPluginStartup] 0.212014ms
+2015-03-06 01:00:55.246 myApp[6724:319763] Resetting plugins due to page load.
+2015-03-06 01:00:55.408 myApp[6724:319763] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/9C2F6663-D713-47EB-91E8-100960579712/myApp.app/www/index.html#/tab/home
+2015-03-06 01:02:10.047 myApp[6822:325448] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/799B56BD-49BF-4148-AE4A-8922658B266B/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:02:10.146 myApp[6822:325448] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:02:10.146 myApp[6822:325448] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:02:10.147 myApp[6822:325448] Unlimited access to network resources
+2015-03-06 01:02:10.360 myApp[6822:325448] [CDVTimer][keyboard] 0.059962ms
+2015-03-06 01:02:10.361 myApp[6822:325448] [CDVTimer][TotalPluginStartup] 0.211000ms
+2015-03-06 01:02:10.414 myApp[6822:325448] Resetting plugins due to page load.
+2015-03-06 01:02:10.588 myApp[6822:325448] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/02ABC934-1AD5-4DAA-8096-21CE4362838E/myApp.app/www/index.html#/tab/home
+2015-03-06 01:05:55.895 myApp[6930:341825] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/FAF3A758-09CB-4E65-95DA-42A1F5C9A90F/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:05:56.006 myApp[6930:341825] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:05:56.006 myApp[6930:341825] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:05:56.008 myApp[6930:341825] Unlimited access to network resources
+2015-03-06 01:05:56.211 myApp[6930:341825] [CDVTimer][keyboard] 0.099003ms
+2015-03-06 01:05:56.212 myApp[6930:341825] [CDVTimer][TotalPluginStartup] 0.374973ms
+2015-03-06 01:05:56.264 myApp[6930:341825] Resetting plugins due to page load.
+2015-03-06 01:05:56.430 myApp[6930:341825] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/CC854F57-8CE9-4EA3-9100-E5BB437A6EF8/myApp.app/www/index.html#/tab/home
+2015-03-06 01:07:14.768 myApp[7028:348737] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/31FAE65E-CB58-4D6C-87AA-F59DD01CE6A3/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:07:14.868 myApp[7028:348737] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:07:14.869 myApp[7028:348737] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:07:14.870 myApp[7028:348737] Unlimited access to network resources
+2015-03-06 01:07:15.081 myApp[7028:348737] [CDVTimer][keyboard] 0.059962ms
+2015-03-06 01:07:15.082 myApp[7028:348737] [CDVTimer][TotalPluginStartup] 0.213981ms
+2015-03-06 01:07:15.133 myApp[7028:348737] Resetting plugins due to page load.
+2015-03-06 01:07:15.301 myApp[7028:348737] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/638CDC38-5BB0-461C-BB5F-5E92EA613A93/myApp.app/www/index.html#/tab/home
+2015-03-06 01:09:19.903 myApp[7131:357182] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/29553D10-8BC0-4F18-8D2E-924BD969C6C4/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:09:20.004 myApp[7131:357182] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:09:20.005 myApp[7131:357182] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:09:20.006 myApp[7131:357182] Unlimited access to network resources
+2015-03-06 01:09:20.230 myApp[7131:357182] [CDVTimer][keyboard] 0.055015ms
+2015-03-06 01:09:20.230 myApp[7131:357182] [CDVTimer][TotalPluginStartup] 0.235975ms
+2015-03-06 01:09:20.285 myApp[7131:357182] Resetting plugins due to page load.
+2015-03-06 01:09:20.450 myApp[7131:357182] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/3187AB56-7119-420B-882B-8FD9AA1F0CA7/myApp.app/www/index.html#/tab/home
+2015-03-06 01:12:39.098 myApp[7234:368464] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/FF497525-AED6-42BE-B87C-048D8AF67D3A/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:12:39.202 myApp[7234:368464] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:12:39.202 myApp[7234:368464] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:12:39.204 myApp[7234:368464] Unlimited access to network resources
+2015-03-06 01:12:39.412 myApp[7234:368464] [CDVTimer][keyboard] 0.056982ms
+2015-03-06 01:12:39.412 myApp[7234:368464] [CDVTimer][TotalPluginStartup] 0.208974ms
+2015-03-06 01:12:39.464 myApp[7234:368464] Resetting plugins due to page load.
+2015-03-06 01:12:39.630 myApp[7234:368464] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/3D386201-62DA-4E87-BA6B-8C7797499335/myApp.app/www/index.html#/tab/home
+2015-03-06 01:42:20.362 myApp[7673:457143] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/7B6D720A-7C81-4B32-AEB6-6E45EBACEA29/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:42:20.450 myApp[7673:457143] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:42:20.450 myApp[7673:457143] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:42:20.452 myApp[7673:457143] Unlimited access to network resources
+2015-03-06 01:42:20.638 myApp[7673:457143] [CDVTimer][keyboard] 0.050962ms
+2015-03-06 01:42:20.639 myApp[7673:457143] [CDVTimer][TotalPluginStartup] 0.204027ms
+2015-03-06 01:42:20.786 myApp[7673:457143] Resetting plugins due to page load.
+2015-03-06 01:42:20.929 myApp[7673:457143] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/31685964-6F83-40EB-B3B5-882BF705F827/myApp.app/www/index.html#/tab/home
+2015-03-06 01:44:44.615 myApp[7791:462470] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/2BC3E1A5-98AC-4E34-8A65-D42FC18AD6A6/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:44:44.701 myApp[7791:462470] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:44:44.702 myApp[7791:462470] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:44:44.703 myApp[7791:462470] Unlimited access to network resources
+2015-03-06 01:44:44.882 myApp[7791:462470] [CDVTimer][keyboard] 0.059009ms
+2015-03-06 01:44:44.882 myApp[7791:462470] [CDVTimer][TotalPluginStartup] 0.234008ms
+2015-03-06 01:44:45.048 myApp[7791:462470] Resetting plugins due to page load.
+2015-03-06 01:44:45.183 myApp[7791:462470] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/E54A1CA0-8BE8-4214-9CBF-DBB1F3D4D41B/myApp.app/www/index.html
+2015-03-06 01:45:34.353 myApp[7897:464654] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/37180D22-068B-45D2-B505-D56FD86BC960/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:45:34.445 myApp[7897:464654] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:45:34.445 myApp[7897:464654] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:45:34.446 myApp[7897:464654] Unlimited access to network resources
+2015-03-06 01:45:34.623 myApp[7897:464654] [CDVTimer][keyboard] 0.051022ms
+2015-03-06 01:45:34.623 myApp[7897:464654] [CDVTimer][TotalPluginStartup] 0.204980ms
+2015-03-06 01:45:34.685 myApp[7897:464654] Resetting plugins due to page load.
+2015-03-06 01:45:34.809 myApp[7897:464654] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/CBC88D69-AA53-4822-9F43-66BC490F92FB/myApp.app/www/index.html
+2015-03-06 01:47:22.264 myApp[8031:465757] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/2F474301-9051-485D-8EF9-8AA2F5FC52C9/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:47:22.377 myApp[8031:465757] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:47:22.377 myApp[8031:465757] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:47:22.379 myApp[8031:465757] Unlimited access to network resources
+2015-03-06 01:47:22.594 myApp[8031:465757] [CDVTimer][keyboard] 0.058949ms
+2015-03-06 01:47:22.594 myApp[8031:465757] [CDVTimer][TotalPluginStartup] 0.221014ms
+2015-03-06 01:47:22.714 myApp[8031:465757] Resetting plugins due to page load.
+2015-03-06 01:47:22.876 myApp[8031:465757] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/2BCAD603-AE07-42C9-A210-EECA706CE734/myApp.app/www/index.html#/tab/home
+2015-03-06 01:48:09.215 myApp[8130:468103] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/8C545F1D-5DAF-4478-A4AD-BBF27FFDAF88/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:48:09.314 myApp[8130:468103] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:48:09.315 myApp[8130:468103] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:48:09.316 myApp[8130:468103] Unlimited access to network resources
+2015-03-06 01:48:09.534 myApp[8130:468103] [CDVTimer][keyboard] 0.061989ms
+2015-03-06 01:48:09.534 myApp[8130:468103] [CDVTimer][TotalPluginStartup] 0.225008ms
+2015-03-06 01:48:09.594 myApp[8130:468103] Resetting plugins due to page load.
+2015-03-06 01:48:09.762 myApp[8130:468103] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/F21AD875-010D-4F89-8633-DD64A8961655/myApp.app/www/index.html#/tab/home
+2015-03-06 01:50:03.575 myApp[8234:475813] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/5339830B-F33F-429D-B4B0-1855B8217F74/Library/Cookies/Cookies.binarycookies
+2015-03-06 01:50:03.679 myApp[8234:475813] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 01:50:03.679 myApp[8234:475813] Multi-tasking -> Device: YES, App: YES
+2015-03-06 01:50:03.681 myApp[8234:475813] Unlimited access to network resources
+2015-03-06 01:50:03.883 myApp[8234:475813] [CDVTimer][keyboard] 0.060976ms
+2015-03-06 01:50:03.884 myApp[8234:475813] [CDVTimer][TotalPluginStartup] 0.239015ms
+2015-03-06 01:50:03.936 myApp[8234:475813] Resetting plugins due to page load.
+2015-03-06 01:50:04.108 myApp[8234:475813] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/03806DEC-390A-43D3-A5CD-E4C890442208/myApp.app/www/index.html#/tab/home
+2015-03-06 09:17:48.522 myApp[8234:505513] Terminating since there is no system app.
+2015-03-06 09:36:22.883 myApp[8589:528666] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/7D0EA6DF-CC2F-4374-858F-B56B476DF750/Library/Cookies/Cookies.binarycookies
+2015-03-06 09:36:23.319 myApp[8589:528666] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 09:36:23.319 myApp[8589:528666] Multi-tasking -> Device: YES, App: YES
+2015-03-06 09:36:23.338 myApp[8589:528666] Unlimited access to network resources
+2015-03-06 09:36:23.940 myApp[8589:528666] [CDVTimer][keyboard] 0.056982ms
+2015-03-06 09:36:23.940 myApp[8589:528666] [CDVTimer][TotalPluginStartup] 0.223041ms
+2015-03-06 09:36:24.603 myApp[8589:528666] Resetting plugins due to page load.
+2015-03-06 09:36:25.345 myApp[8589:528666] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/E81D637A-7F95-4BB7-81AA-5BB5DA38B673/myApp.app/www/index.html#/tab/home
+2015-03-06 09:40:51.584 myApp[8745:535377] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/0F3041F2-A4F0-4776-8785-ADFC4BB53579/Library/Cookies/Cookies.binarycookies
+2015-03-06 09:40:51.716 myApp[8745:535377] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 09:40:51.716 myApp[8745:535377] Multi-tasking -> Device: YES, App: YES
+2015-03-06 09:40:51.718 myApp[8745:535377] Unlimited access to network resources
+2015-03-06 09:40:51.957 myApp[8745:535377] [CDVTimer][keyboard] 0.057995ms
+2015-03-06 09:40:51.957 myApp[8745:535377] [CDVTimer][TotalPluginStartup] 0.226974ms
+2015-03-06 09:40:52.182 myApp[8745:535377] Resetting plugins due to page load.
+2015-03-06 09:40:52.436 myApp[8745:535377] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/8419EBBD-FB5B-402F-93EA-040B160A0CE6/myApp.app/www/index.html#/tab/home
+2015-03-06 10:09:57.474 myApp[9487:598597] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/AF89A240-9CD4-4766-814A-3F86FE4B10CD/Library/Cookies/Cookies.binarycookies
+2015-03-06 10:09:57.705 myApp[9487:598597] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 10:09:57.706 myApp[9487:598597] Multi-tasking -> Device: YES, App: YES
+2015-03-06 10:09:57.709 myApp[9487:598597] Unlimited access to network resources
+2015-03-06 10:09:57.997 myApp[9487:598597] [CDVTimer][keyboard] 0.115991ms
+2015-03-06 10:09:57.997 myApp[9487:598597] [CDVTimer][TotalPluginStartup] 0.398993ms
+2015-03-06 10:09:58.132 myApp[9487:598597] Resetting plugins due to page load.
+2015-03-06 10:09:58.397 myApp[9487:598597] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/745BADB9-DF30-4593-9981-11C041F7CF75/myApp.app/www/index.html#/tab/home
+2015-03-06 10:12:07.927 myApp[9596:605355] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/A7192148-72CF-4B36-BD62-5CE9035F618C/Library/Cookies/Cookies.binarycookies
+2015-03-06 10:12:08.295 myApp[9596:605355] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 10:12:08.295 myApp[9596:605355] Multi-tasking -> Device: YES, App: YES
+2015-03-06 10:12:08.298 myApp[9596:605355] Unlimited access to network resources
+2015-03-06 10:12:08.577 myApp[9596:605355] [CDVTimer][keyboard] 0.068009ms
+2015-03-06 10:12:08.578 myApp[9596:605355] [CDVTimer][TotalPluginStartup] 0.267029ms
+2015-03-06 10:12:08.827 myApp[9596:605355] Resetting plugins due to page load.
+2015-03-06 10:12:09.134 myApp[9596:605355] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/F4432505-1339-4687-81E6-7BD361334BE4/myApp.app/www/index.html#/tab/home
+2015-03-06 10:53:21.415 myApp[10268:652253] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/54902B39-3C07-4263-96EF-15C2FF554AEB/Library/Cookies/Cookies.binarycookies
+2015-03-06 10:53:21.659 myApp[10268:652253] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 10:53:21.659 myApp[10268:652253] Multi-tasking -> Device: YES, App: YES
+2015-03-06 10:53:21.661 myApp[10268:652253] Unlimited access to network resources
+2015-03-06 10:53:21.829 myApp[10268:652253] [CDVTimer][keyboard] 0.054955ms
+2015-03-06 10:53:21.829 myApp[10268:652253] [CDVTimer][TotalPluginStartup] 0.200033ms
+2015-03-06 10:53:21.904 myApp[10268:652253] Resetting plugins due to page load.
+2015-03-06 10:53:22.049 myApp[10268:652253] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/9EF33E25-817D-4947-8421-AF5F12130CA5/myApp.app/www/index.html#/tab/home
+2015-03-06 10:54:12.813 myApp[10389:656472] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/1FD4FCE9-5DEF-4BB7-B298-6DE9829D91E8/Library/Cookies/Cookies.binarycookies
+2015-03-06 10:54:13.055 myApp[10389:656472] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 10:54:13.056 myApp[10389:656472] Multi-tasking -> Device: YES, App: YES
+2015-03-06 10:54:13.057 myApp[10389:656472] Unlimited access to network resources
+2015-03-06 10:54:13.328 myApp[10389:656472] [CDVTimer][keyboard] 0.104964ms
+2015-03-06 10:54:13.328 myApp[10389:656472] [CDVTimer][TotalPluginStartup] 0.393987ms
+2015-03-06 10:54:13.428 myApp[10389:656472] Resetting plugins due to page load.
+2015-03-06 10:54:13.719 myApp[10389:656472] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/08386545-CBCF-4A11-A9DE-02E737BBBC63/myApp.app/www/index.html#/tab/home
+2015-03-06 10:54:45.818 myApp[10497:657815] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/C87C7ECE-1538-4DEC-B60B-620BF5479802/Library/Cookies/Cookies.binarycookies
+2015-03-06 10:54:46.079 myApp[10497:657815] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 10:54:46.080 myApp[10497:657815] Multi-tasking -> Device: YES, App: YES
+2015-03-06 10:54:46.082 myApp[10497:657815] Unlimited access to network resources
+2015-03-06 10:54:46.307 myApp[10497:657815] [CDVTimer][keyboard] 0.056028ms
+2015-03-06 10:54:46.307 myApp[10497:657815] [CDVTimer][TotalPluginStartup] 0.213981ms
+2015-03-06 10:54:46.476 myApp[10497:657815] Resetting plugins due to page load.
+2015-03-06 10:54:46.685 myApp[10497:657815] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/63339345-5DFA-4539-838B-2A68884F99C3/myApp.app/www/index.html#/tab/home
+2015-03-06 10:57:28.216 myApp[10625:662797] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/FE083347-6D68-46FE-BA0F-042DAE8C5397/Library/Cookies/Cookies.binarycookies
+2015-03-06 10:57:28.457 myApp[10625:662797] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 10:57:28.458 myApp[10625:662797] Multi-tasking -> Device: YES, App: YES
+2015-03-06 10:57:28.459 myApp[10625:662797] Unlimited access to network resources
+2015-03-06 10:57:28.696 myApp[10625:662797] [CDVTimer][keyboard] 0.055015ms
+2015-03-06 10:57:28.696 myApp[10625:662797] [CDVTimer][TotalPluginStartup] 0.214994ms
+2015-03-06 10:57:28.828 myApp[10625:662797] Resetting plugins due to page load.
+2015-03-06 10:57:29.328 myApp[10625:662797] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/6D23F309-C628-458B-8AD8-404C0CAD332F/myApp.app/www/index.html#/tab/home
+2015-03-06 11:21:17.090 myApp[11311:713852] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/8319D306-66E5-4858-B72B-B7E07E3F5081/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:21:17.351 myApp[11311:713852] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:21:17.352 myApp[11311:713852] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:21:17.353 myApp[11311:713852] Unlimited access to network resources
+2015-03-06 11:21:17.588 myApp[11311:713852] [CDVTimer][keyboard] 0.090003ms
+2015-03-06 11:21:17.588 myApp[11311:713852] [CDVTimer][TotalPluginStartup] 0.330031ms
+2015-03-06 11:21:17.679 myApp[11311:713852] Resetting plugins due to page load.
+2015-03-06 11:21:17.811 myApp[11311:713852] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/73C73A26-5CEE-4E90-8CC8-887502F52273/myApp.app/www/index.html
+2015-03-06 11:22:16.213 myApp[11427:717734] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/F846C817-0C18-4EE5-8938-36CA608CC70D/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:22:16.381 myApp[11427:717734] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:22:16.382 myApp[11427:717734] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:22:16.383 myApp[11427:717734] Unlimited access to network resources
+2015-03-06 11:22:16.597 myApp[11427:717734] [CDVTimer][keyboard] 0.082016ms
+2015-03-06 11:22:16.597 myApp[11427:717734] [CDVTimer][TotalPluginStartup] 0.325978ms
+2015-03-06 11:22:16.703 myApp[11427:717734] Resetting plugins due to page load.
+2015-03-06 11:22:16.893 myApp[11427:717734] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/AD76F9E2-FC1B-4134-9790-63864BC5BEB9/myApp.app/www/index.html#/tab/home
+2015-03-06 11:23:22.382 myApp[11541:722931] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/5288F1E0-8B8A-4CD1-8F0E-A5E79EEAD0CD/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:23:22.549 myApp[11541:722931] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:23:22.550 myApp[11541:722931] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:23:22.551 myApp[11541:722931] Unlimited access to network resources
+2015-03-06 11:23:22.823 myApp[11541:722931] [CDVTimer][keyboard] 0.095010ms
+2015-03-06 11:23:22.823 myApp[11541:722931] [CDVTimer][TotalPluginStartup] 0.337958ms
+2015-03-06 11:23:22.927 myApp[11541:722931] Resetting plugins due to page load.
+2015-03-06 11:23:23.186 myApp[11541:722931] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/EB9C1856-3228-4D46-8252-06DA0893C6EF/myApp.app/www/index.html#/tab/home
+2015-03-06 11:24:55.255 myApp[11649:728146] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/A2E46B84-6973-4DBE-8F28-E74EBF2AE9EA/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:24:55.420 myApp[11649:728146] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:24:55.421 myApp[11649:728146] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:24:55.422 myApp[11649:728146] Unlimited access to network resources
+2015-03-06 11:24:55.662 myApp[11649:728146] [CDVTimer][keyboard] 0.082016ms
+2015-03-06 11:24:55.662 myApp[11649:728146] [CDVTimer][TotalPluginStartup] 0.317991ms
+2015-03-06 11:24:55.765 myApp[11649:728146] Resetting plugins due to page load.
+2015-03-06 11:24:55.959 myApp[11649:728146] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/849CB2A5-1422-4182-9989-C9000AF6B85D/myApp.app/www/index.html#/tab/home
+2015-03-06 11:30:57.516 myApp[11777:745857] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/EAFC966A-763E-4562-8E19-8C3AF7C28208/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:30:57.694 myApp[11777:745857] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:30:57.694 myApp[11777:745857] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:30:57.696 myApp[11777:745857] Unlimited access to network resources
+2015-03-06 11:30:57.984 myApp[11777:745857] [CDVTimer][keyboard] 0.087976ms
+2015-03-06 11:30:57.984 myApp[11777:745857] [CDVTimer][TotalPluginStartup] 0.325978ms
+2015-03-06 11:30:58.080 myApp[11777:745857] Resetting plugins due to page load.
+2015-03-06 11:30:58.263 myApp[11777:745857] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/1D1A8C9D-DB61-4253-AB18-5E35CFFCD35E/myApp.app/www/index.html
+2015-03-06 11:36:33.285 myApp[11908:757563] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/BDAF4E76-E738-4694-BAF7-ED8AD2FD4224/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:36:33.489 myApp[11908:757563] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:36:33.490 myApp[11908:757563] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:36:33.491 myApp[11908:757563] Unlimited access to network resources
+2015-03-06 11:36:33.745 myApp[11908:757563] [CDVTimer][keyboard] 0.083983ms
+2015-03-06 11:36:33.745 myApp[11908:757563] [CDVTimer][TotalPluginStartup] 0.330031ms
+2015-03-06 11:36:33.854 myApp[11908:757563] Resetting plugins due to page load.
+2015-03-06 11:36:34.064 myApp[11908:757563] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/7F8440E3-C1A1-4FC7-9EAE-37E519D25B3E/myApp.app/www/index.html#/tab/home
+2015-03-06 11:42:23.783 myApp[12050:774888] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/D559AE94-DFA5-4541-A175-BDFCFAE2ABF9/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:42:23.951 myApp[12050:774888] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:42:23.952 myApp[12050:774888] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:42:23.953 myApp[12050:774888] Unlimited access to network resources
+2015-03-06 11:42:24.171 myApp[12050:774888] [CDVTimer][keyboard] 0.055015ms
+2015-03-06 11:42:24.171 myApp[12050:774888] [CDVTimer][TotalPluginStartup] 0.264049ms
+2015-03-06 11:42:24.275 myApp[12050:774888] Resetting plugins due to page load.
+2015-03-06 11:42:24.442 myApp[12050:774888] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/B390FCFA-3783-4A9B-8956-AE456443ADB0/myApp.app/www/index.html
+2015-03-06 11:42:54.888 myApp[12159:777669] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/DB5ADB45-6829-4628-BE8F-82D9E6BA9180/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:42:55.065 myApp[12159:777669] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:42:55.066 myApp[12159:777669] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:42:55.068 myApp[12159:777669] Unlimited access to network resources
+2015-03-06 11:42:55.321 myApp[12159:777669] [CDVTimer][keyboard] 0.082016ms
+2015-03-06 11:42:55.321 myApp[12159:777669] [CDVTimer][TotalPluginStartup] 0.304997ms
+2015-03-06 11:42:55.416 myApp[12159:777669] Resetting plugins due to page load.
+2015-03-06 11:42:55.614 myApp[12159:777669] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/D9A87764-3A34-4976-8086-C0BFBB5239D7/myApp.app/www/index.html#/tab/home
+2015-03-06 11:43:12.455 myApp[12263:779422] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/7FDF077C-DC45-4CC0-A979-F8CBC82D7216/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:43:12.661 myApp[12263:779422] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:43:12.661 myApp[12263:779422] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:43:12.664 myApp[12263:779422] Unlimited access to network resources
+2015-03-06 11:43:12.965 myApp[12263:779422] [CDVTimer][keyboard] 0.054002ms
+2015-03-06 11:43:12.965 myApp[12263:779422] [CDVTimer][TotalPluginStartup] 0.240028ms
+2015-03-06 11:43:13.063 myApp[12263:779422] Resetting plugins due to page load.
+2015-03-06 11:43:13.270 myApp[12263:779422] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/143F6904-ABC6-4794-84E6-1DBF8AA83730/myApp.app/www/index.html#/tab/home
+2015-03-06 11:49:47.204 myApp[12379:786779] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/A65FDE8A-3048-4CB9-B723-54417A0BE45F/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:49:47.392 myApp[12379:786779] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:49:47.393 myApp[12379:786779] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:49:47.394 myApp[12379:786779] Unlimited access to network resources
+2015-03-06 11:49:47.676 myApp[12379:786779] [CDVTimer][keyboard] 0.087976ms
+2015-03-06 11:49:47.676 myApp[12379:786779] [CDVTimer][TotalPluginStartup] 0.331998ms
+2015-03-06 11:49:47.786 myApp[12379:786779] Resetting plugins due to page load.
+2015-03-06 11:49:47.985 myApp[12379:786779] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/FB52B7D8-2CDC-4DDB-A0AE-CEEB56EF5DF5/myApp.app/www/index.html#/tab/home
+2015-03-06 11:51:31.232 myApp[12485:793902] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/587E57D1-6331-4598-A86F-FE31AFB986BF/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:51:31.421 myApp[12485:793902] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:51:31.422 myApp[12485:793902] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:51:31.423 myApp[12485:793902] Unlimited access to network resources
+2015-03-06 11:51:31.667 myApp[12485:793902] [CDVTimer][keyboard] 0.055969ms
+2015-03-06 11:51:31.667 myApp[12485:793902] [CDVTimer][TotalPluginStartup] 0.208020ms
+2015-03-06 11:51:31.759 myApp[12485:793902] Resetting plugins due to page load.
+2015-03-06 11:51:31.953 myApp[12485:793902] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/CE948DC5-9F05-48CE-94AD-D0A24B95691F/myApp.app/www/index.html#/tab/home
+2015-03-06 11:52:04.639 myApp[12587:796986] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/EF932B98-C244-4D84-A1E9-DA886389E983/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:52:04.814 myApp[12587:796986] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:52:04.814 myApp[12587:796986] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:52:04.816 myApp[12587:796986] Unlimited access to network resources
+2015-03-06 11:52:05.055 myApp[12587:796986] [CDVTimer][keyboard] 0.079989ms
+2015-03-06 11:52:05.055 myApp[12587:796986] [CDVTimer][TotalPluginStartup] 0.317991ms
+2015-03-06 11:52:05.157 myApp[12587:796986] Resetting plugins due to page load.
+2015-03-06 11:52:05.481 myApp[12587:796986] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/E59D84D4-BDFF-4B6F-818D-DFBE99576000/myApp.app/www/index.html#/tab/home
+2015-03-06 11:52:37.170 myApp[12693:798603] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Data/Application/97E20280-7874-4C63-A695-326BE906E2C7/Library/Cookies/Cookies.binarycookies
+2015-03-06 11:52:37.337 myApp[12693:798603] Apache Cordova native platform version 3.8.0 is starting.
+2015-03-06 11:52:37.337 myApp[12693:798603] Multi-tasking -> Device: YES, App: YES
+2015-03-06 11:52:37.339 myApp[12693:798603] Unlimited access to network resources
+2015-03-06 11:52:37.622 myApp[12693:798603] [CDVTimer][keyboard] 0.086010ms
+2015-03-06 11:52:37.622 myApp[12693:798603] [CDVTimer][TotalPluginStartup] 0.337005ms
+2015-03-06 11:52:37.751 myApp[12693:798603] Resetting plugins due to page load.
+2015-03-06 11:52:38.132 myApp[12693:798603] Finished load of: file:///Users/Taoran/Library/Developer/CoreSimulator/Devices/3BDFBE3B-0746-4DF4-9308-00B81E4070B0/data/Containers/Bundle/Application/F801ED4A-2263-4954-A3D2-21A176AF58B5/myApp.app/www/index.html#/tab/home

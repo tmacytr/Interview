@@ -1,0 +1,26 @@
+/* Add your own CSS if you like */
+.emergencycall {
+    display:block;
+    margin:20px auto;
+    width:200px;
+    height:200px;
+    line-height:50px;
+    border: 2px solid #f5f5f5;
+    border-radius: 50%;
+    color:#f5f5f5;
+    text-align:center;
+    text-decoration:none;
+    background-color: #e00000;
+    box-shadow: 0 0 3px gray;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.emergencycall:hover {
+    background-color: #b00000;
+    cursor:pointer;
+}
+
+.icon-left ion-ios7-plus {
+    margin-left:10px;
+}

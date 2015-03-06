@@ -1,2 +1,0 @@
-print 'fuck'sssssssssssss
-ssssssssssssss
